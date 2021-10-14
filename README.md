@@ -1,5 +1,5 @@
-<h2>E-commerce Para Loja de Roupa</h2>
-<p>Projeto realizado para cliente real com integração ao mercado pago.</p>
+<h2>Layout E-commerce Para Loja de Roupa</h2>
+<p>Projeto realizado para aperfeiçoamento nas tecnologias abaixo.</p>
 
 <br>
 <h3>Tecnologias Utilizadas</h3>
